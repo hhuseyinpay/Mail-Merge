@@ -1,0 +1,19 @@
+<root>
+    <student id="2008900">
+        <name>Hasan</name>
+        <surname>Hüseyin</surname>
+        <gpa>3,60</gpa>
+        <termA>4,00</termA>
+        <address>Com.Eng.Dep. No:125</address>
+        <postcode>35160</postcode>
+        <city>Izmir</city>
+    </student>
+    <student id="2008905">
+        <name>aStudent</name>
+        <surname>thatWillNoBeGivenAsOutput</surname>
+        <termA>4,00</termA>
+        <address>Com.Eng.Dep. No:125</address>
+        <postcode>35160</postcode>
+        <city>Izmir</city>
+    </student>
+</root>

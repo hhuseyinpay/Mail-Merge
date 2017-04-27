@@ -1,0 +1,5 @@
+<mail>
+    Dear Student <name/> <surname/>,
+    This letter is an example to inform you about the content of template file. Your student should be <id/> and your GPA is to be <gpa/>. Thanks for reading.
+    Your address is: <address/> <postcode/> <city/>
+</mail>
